@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Producto1",
+    "description": "Este es el primer producto",
+    "price": "20 USD",
+    "thumbnail": "Ruta de la imagen",
+    "code": 123,
+    "stock": 10,
+    "category": "Categoría 1",
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Producto1",
+    "description": "Este es el primer producto",
+    "price": "20 USD",
+    "thumbnail": "Ruta de la imagen",
+    "code": 123,
+    "stock": 10,
+    "category": "Categoría 1",
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "Producto2",
+    "description": "Este es el segundo producto",
+    "price": "50USD",
+    "thumbnail": "Ruta de la imagen2",
+    "code": 124,
+    "stock": 15,
+    "category": "Categoría 2",
+    "status": true,
+    "id": 2
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "desafio-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pruebas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrearivera24/AndreaRivera--desafio2-ManejandoArchivos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrearivera24/AndreaRivera--desafio2-ManejandoArchivos/issues"
+  },
+  "homepage": "https://github.com/Andrearivera24/AndreaRivera--desafio2-ManejandoArchivos#readme"
+}
